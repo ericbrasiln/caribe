@@ -12,9 +12,9 @@
 
 ## 1. Pesquisa: do carnaval carioca ao Canboulay caribenho à História Digital
 
-- **A Corte em Festa**: experiências negras em carnavais do Rio de Janeiro (1879-1888). Editora Prismas, 2016.
+- Mestrado: **A Corte em Festa**: experiências negras em carnavais do Rio de Janeiro (1879-1888). Editora Prismas, 2016.
 
-- **Carnavais atlânticos**: cidadania e cultura negra no pós abolição. Rio de Janeiro e Port-of-Spain, Trinidad (1838-1920), Tese de doutorado, UFF, 2016 - [Link](https://www.historia.uff.br/stricto/td/1806.pdf)
+- Doutorado: **Carnavais atlânticos**: cidadania e cultura negra no pós abolição. Rio de Janeiro e Port-of-Spain, Trinidad (1838-1920), Tese de doutorado, UFF, 2016 - [Link](https://www.historia.uff.br/stricto/td/1806.pdf)
 
 - História digital: reflexões a partir da Hemeroteca Digital Brasileira e do uso de CAQDAS na reelaboração da pesquisa histórica. - [Link](http://bibliotecadigital.fgv.br/ojs/index.php/reh/article/view/79933)
 
@@ -96,8 +96,6 @@
 
 - [Mestrado em Humanidades Digitais da UFRRJ](https://www.dcc.ufrrj.br/ppgihd/)
 
-
-
 ---
 
 ## 5. Contatos
@@ -120,4 +118,7 @@ GNU GENERAL PUBLIC LICENSE v.3.0
 
 2020 Eric Brasil
 
-<div align="right"><img src="LOGO-HISTÓRIA-BA-novo.png" alt="logo-hist" style="zoom:6%;" /> <img src="unilab.png" style="zoom: 33%;" /></div>
+<div align="right">
+<img src="LOGO-HISTÓRIA-BA-novo.png" alt="logo-hist" style="zoom:6%;" />
+<img src="unilab.png" style="zoom: 33%;" />
+</div>
