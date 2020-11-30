@@ -63,28 +63,28 @@
 
 - [Quem tem medo dos métodos digitais de pesquisa?](https://www.youtube.com/watch?v=x-SGWbuYTZQ&t=1374s), Congresso virtual da UFBA 2020.
 
-- <iframe width="560" height="315" src="https://www.youtube.com/embed/x-SGWbuYTZQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/x-SGWbuYTZQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 - [Emancpações e Pós-Abolição: História Pública e ensino de História nas mídias sociais.](https://youtu.be/y9M2NQszLNc) Webinar Gtep, 2020.
 
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/y9M2NQszLNc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y9M2NQszLNc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 - [Condições de produção da história em tempos digitais: experimentação e práticas híbridas](https://youtu.be/0fc0fLeWlU4)
 
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/0fc0fLeWlU4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0fc0fLeWlU4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 - [Emancipações, pós-abolição e racismo no Brasil](https://youtu.be/NXuFrYz24IU), UEMG, 2020.
   
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/NXuFrYz24IU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NXuFrYz24IU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 - [Inteligência artificial e humanidades, UNIFAL](https://youtu.be/kW26mFyH6vk), 2020.
   
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/kW26mFyH6vk?start=1863" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kW26mFyH6vk?start=1863" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 - Oficina: HISTORIADORES RODANDO PYTHON!? Uma Introdução
   
   - [Apresentação](https://ericbrasiln.github.io/oficina-python/)
-- [Vídeo](https://youtu.be/-6IGMyw7c6E)
+  - [Vídeo](https://youtu.be/-6IGMyw7c6E)
   
   <iframe width="560" height="315" src="https://www.youtube.com/embed/-6IGMyw7c6E" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   
@@ -120,4 +120,4 @@ GNU GENERAL PUBLIC LICENSE v.3.0
 
 2020 Eric Brasil
 
-<img src="LOGO-HISTÓRIA-BA-novo.png" align="right" alt="logo-hist" style="zoom:6%;" /> <img src="unilab.png" align="right" style="zoom: 33%;" />
+<div align="right"><img src="LOGO-HISTÓRIA-BA-novo.png" alt="logo-hist" style="zoom:6%;" /> <img src="unilab.png" style="zoom: 33%;" /></div>
