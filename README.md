@@ -1,4 +1,4 @@
-# Dá pra pesquisar o Caribe do Brasil?<br>Reflexões teórico-metodológicas
+# Dá pra pesquisar o Caribe do Brasil? Reflexões teórico-metodológicas
 
 [Eric Brasil](https://linktr.ee/ericbrasil) (IHL/UNILAB)
 
@@ -6,7 +6,7 @@
 
 ---
 
-
+> Material para a mesa promovida pelo [Canal da América](https://youtu.be/hMX8ITv40K8) - 2020-11-30, 17h.
 
 [TOC]
 
@@ -43,7 +43,10 @@
 ## 3. Vamos aos acervos
 
 - [Periódicos Capes](https://www-periodicos-capes-gov-br.ezl.periodicos.capes.gov.br/index.php?)
-  - Gale Primary Sources e o "sumiço de fontes".
+  
+  - Gale Primary Sources e o "sumiço de fontes" na CAPES: 
+  
+  <blockquote class="twitter-tweet"><p lang="pt" dir="ltr"><a href="https://twitter.com/CAPES_Oficial?ref_src=twsrc%5Etfw">@CAPES_Oficial</a> quando acesso a base de dados através da minha instituição <a href="https://twitter.com/unilabbrasil?ref_src=twsrc%5Etfw">@unilabbrasil</a> aparecem apenas 2 opções.<br>Ainda estamos sem acesso a todo conteúdo? Há nova previsão de normalização?<br>Ou é uma limitação de minha instituição? <a href="https://t.co/QYAfCdyGtl">https://t.co/QYAfCdyGtl</a> <a href="https://t.co/itRAvk72e0">pic.twitter.com/itRAvk72e0</a></p>&mdash; Eric Brasil (de 🏠) (@ericbrasiln) <a href="https://twitter.com/ericbrasiln/status/1332435900974903300?ref_src=twsrc%5Etfw">November 27, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 - [Internet Archive](https://archive.org/)
 - [FamilySearch](https://www.familysearch.org/search/catalog)
 - [Digital Library of the Caribbean](https://dloc.com/)
@@ -102,12 +105,12 @@
 
 * E-mail: ericbrasiln@protonmail.com
 
-* <a href="https://twitter.com/ericbrasiln" target="_blank">Twitter - @ericbrasiln</a>
+* [Twitter - @ericbrasiln](https://twitter.com/ericbrasiln)
 
-- <a href="https://studio.youtube.com/channel/UC-tuyLIm7Ww_TDjKdHdnaAg/videos" target="_blank">Canal do YouTube</a>
+- [Canal do YouTube](https://studio.youtube.com/channel/UC-tuyLIm7Ww_TDjKdHdnaAg/videos)
 
-* <a href="https://ericbrasiln.github.io/" target="_blank">Site</a>
-* <a href= "https://github.com/ericbrasiln/" target="_blank">Github</a>
+* [Site](https://ericbrasiln.github.io/)
+* [Github](https://github.com/ericbrasiln/)
 * [Linktree](https://linktr.ee/ericbrasil)
 
 ---
