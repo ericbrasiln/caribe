@@ -120,4 +120,4 @@ GNU GENERAL PUBLIC LICENSE v.3.0
 
 2020 Eric Brasil
 
-<img src="/home/ebn/pCloudDrive/ACADEMIA/MESAS/AMÉRICA UFJF-USP/LOGO-HISTÓRIA-BA-novo.png" align="right" alt="logo-hist" style="zoom:6%;" /> <img src="/home/ebn/pCloudDrive/ACADEMIA/MESAS/AMÉRICA UFJF-USP/unilab.png" align="right" style="zoom: 33%;" />
+<img src="LOGO-HISTÓRIA-BA-novo.png" align="right" alt="logo-hist" style="zoom:6%;" /> <img src="unilab.png" align="right" style="zoom: 33%;" />
